@@ -1,0 +1,2 @@
+# template
+to show beaches
